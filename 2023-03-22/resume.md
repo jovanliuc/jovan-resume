@@ -45,7 +45,8 @@ jovanliuc0104@gmail.com
 - CheckMarx, SonarQube, PMD
 - OSGi, Ant, Maven, Gradle
 - Splunk, Datadog, AppDynamics
-- BitBucket, Subversion, Git / GitHub,
+- BitBucket, Subversion, Git / GitHub
+- Micro-Services
 
 ### Others
 - C / C++, C#, Go/Golang, Python, PHP
