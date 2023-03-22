@@ -13,7 +13,7 @@ jovanliuc0104@gmail.com
 2009 - 2013 <br> **Shaanxi University of Science & Technology** <br> Bachelor of Electronic Information Science & Technology
 
 # Skills
-## Backend
+### Backend
 - Servlet / JSP, FreeMark, Velocity
 - Struts1 / Struts2, EJB
 - Spring, Spring Boot, Spring Cloud, Spring Could Gateway, Spring Integration, Spring Batch
@@ -27,14 +27,14 @@ jovanliuc0104@gmail.com
 - Oracle, SQL Server, DB2, MySQL / MariaDB, Postgresql
 - Redis
 
-## Frontend
+### Frontend
 - HTML / HTML5, CSS / CSS3, Less / Sass, Bootstrap
 - ECMAScript / JavaScript, TypeScript
 - jQuery, Dojo, ExtJS, AngularJS, React
 - NPM, Yarn
 - Webpack, Grunt, Gulp
 
-## DevSecOps
+### DevSecOps
 - Docker, Kubernetes(K8S), Istio, Helm, Terraform, Ansible
 - AWS(EC2, EKS, ECS, Lambda, RDS, Route53, CloudWatch, IAM, VPC, S3…) 
 - PCF, SHP(AWS EKS / IKP - Internal K8S Platform)
@@ -47,7 +47,7 @@ jovanliuc0104@gmail.com
 - Splunk, Datadog, AppDynamics
 - BitBucket, Subversion, Git / GitHub,
 
-## Others
+### Others
 - C / C++, C#, Go/Golang, Python, PHP
 - Linux
 
