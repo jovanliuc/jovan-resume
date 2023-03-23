@@ -12,7 +12,7 @@ jovanliuc0104@gmail.com
 
 2009 - 2013 <br> **Shaanxi University of Science & Technology** <br> Bachelor of Electronic Information Science & Technology
 
-# Work Experience
+# Experience
 2018 / 07 - Now
 <br>
 HSBC Software Development (GD) Limited XiAn Branch
@@ -88,3 +88,23 @@ Full Stack Engineer
 ### Others
 - C / C++, C#, Go/Golang, Python, PHP
 - Linux
+
+# Projects
+## Banking 2.0 / Mobile X
+### Overview
+The Banking 2.0 or Mobile X, which is the latest version of the HSBC *Personal Inline Banking* (PIB),
+in order to provide much more services to consumers, so upgrade the services of system gradually.
+We're focusing on the Payment / Transfer, Foreign Exchange Rate, Reference Data, Purpose of Payment, 
+and the Search & Validation of Bank Data, and much more services.
+
+### Responsibilities
+* The designing & coding of services
+* The integration testing & performance boosting of services
+* The continuous integration / continuous delivery (CI / CD) of services
+* The authentication & authorization of services
+* The security enhancement & governance of services
+* The monitoring and auditing of services
+
+### Technicals
+Spring Boot, Spring Integration, Spring Batch, JPA/Hibernate, IBM MQ, Jmeter, Jenkins,
+JWT / SAML, Mulesoft / Kong, Splunk, AppDynamics, PCF, Docker, K8S, AWS, Helm, Istio, Terraform...
