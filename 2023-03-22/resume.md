@@ -105,7 +105,7 @@ Full Stack Engineer
 - Linux
 
 # Projects
-## Banking 2.0 / Mobile X (2017 / 04 - Now)
+## Banking 2.0 / Mobile X (2017 / 04 - Now, HSBC)
 ### Overview
 The Banking 2.0 or Mobile X,
 which is the latest version of the HSBC *Personal Inline Banking* (PIB),
@@ -127,7 +127,7 @@ Spring Boot, Spring Integration, Spring Batch, JPA/Hibernate, IBM MQ, Jmeter, Je
 JWT / SAML, Mulesoft / Kong, Splunk, AppDynamics,
 PCF, Docker, K8S, AWS, Helm, Istio, Terraform...
 
-## BOSS 2.0 ( 2015 / 07 - 2017 / 03 )
+## BOSS 2.0 ( 2015 / 07 - 2017 / 03, Samsung)
 ### Overview
 The BOSS(Business & Operation Support System)
 which is a king of business & operation support systems,
@@ -150,7 +150,7 @@ Mi Platform / X Platform (UI Framework),
 Oracle, Web Service, Socket Programming, 
 Hudson / Jenkins, Maven, Dimension, WebLogic, Linux Shell
 
-# Digital World (2015 / 07 - 2017 / 03)
+# Digital World (2015 / 07 - 2017 / 03, Samsung)
 ## Overview
 The Digital World, which is an internal management system of Samsung,
 and mainly serving all kind of daily activities of in-scope staff of corporation,
@@ -166,3 +166,11 @@ and each of module have lots of sub-services.
 ### Technicals
 JSP / Servlet, Spring, Spring MVC, JPA / Hibernate / AnyFrame (ORM Framework) / iBatis,
 ExtJS, OSGi, Maven, Oracle, JUES (Web Server)
+
+# Much more projects
+## The Performance Monitoring & Info. Collector of Huawei (2015)
+## The Project Mgt. of Huawei (2015)
+## Yun Logistics & Mgt. (2014)
+## V-mall & V-mall Mgt. (2014)
+## Smile-Hand / MyB&C / Mgt. (2013)
+## The Online Education (2013)
