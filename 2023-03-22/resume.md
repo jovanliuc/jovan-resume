@@ -130,13 +130,11 @@ PCF, Docker, K8S, AWS, Helm, Istio, Terraform...
 ## BOSS 2.0
 ### Overview
 The BOSS(Business & Operation Support System)
-which is a king of business operation support systems,
-and including variable complex businesses.
-
-Generally, it is containing four key submodules, 
-The Billing, Accounting, Customer Service, and Marketing services.
-
-There are also have large numbers of external partners to interactive with,
+which is a king of business & operation support systems,
+and including various of the complex businesses.
+In general, it is containing four key services, 
+the Billing, the Accounting, the Customer Service, and the Marketing.
+There are also have large numbers of external services to interactive with,
 e.g. the MDG (Customer Management), HCN (Credit Card Review), 
 KAIT (Credit Rating Agency), CTOSS (Special Commodity Opening).
 
@@ -148,5 +146,23 @@ KAIT (Credit Rating Agency), CTOSS (Special Commodity Opening).
 
 ### Technicals
 Spring, Spring MVC, Spring Batch, iBatis / MyBatis,
-Mi Platform / X Platform (UI Framework within Corporation),
-Oracle, Web Service, Socket Programming, Maven, Dimension, WebLogic, Linux Shell
+Mi Platform / X Platform (UI Framework),
+Oracle, Web Service, Socket Programming, 
+Hudson / Jenkins, Maven, Dimension, WebLogic, Linux Shell
+
+# Digital World
+## Overview
+The Digital World, which is an internal management system of Samsung,
+and mainly serving all kind of daily activities of in-scope staff of corporation,
+there are three main services, the Work, Life and Play, 
+and each of module have lots of sub-services.
+
+### Responsibilities
+* The maintaining & coding of services
+* The bug fix & new features development of services
+* The continuous integration / continuous delivery (CI / CD) of services
+* The monitoring and auditing of services
+
+### Technicals
+JSP / Servlet, Spring, Spring MVC, JPA / Hibernate / AnyFrame (ORM Framework) / iBatis,
+ExtJS, OSGi, Maven, Oracle, JUES (Web Server)
