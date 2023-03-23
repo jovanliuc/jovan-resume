@@ -1,8 +1,8 @@
 # Jovan Liu
 
 > I'm a passionate software developer with almost **10** years related experience,
-> and familiar with backend, frontend, micro-services, cloud native, agile, DevSecOps, 
-> and so on, relative technical stacks,
+> and familiar with backend, frontend, microservice, cloud native, agile, DevSecOps, 
+> and much more relative technical stacks,
 > especially, the designing, CI / CD, governance, and security of services or microservices,
 > and the enforcement and security of cloud native as well.
 
