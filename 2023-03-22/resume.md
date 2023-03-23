@@ -5,7 +5,7 @@
 
 jovanliuc0104@gmail.com
 
-[Github Link](https://github.com/jovanliuc)
+[GitHub Link](https://github.com/jovanliuc)
 
 # Education
 2022 - 2025 <br> **Northwestern Polytechnical University** <br> Master of Engineer Management
