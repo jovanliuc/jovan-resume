@@ -1,4 +1,11 @@
 # Jovan Liu
+
+> I'm a passionate software developer with almost **10** years related experience,
+> and familiar with backend, frontend, micro-services, cloud native, agile, DevSecOps, 
+> and so on, relative technical stacks,
+> especially, the designing, CI / CD, governance, and security of services or microservices,
+> and the enforcement and security of cloud native as well.
+
 +86-15029906261
 
 327527689@qq.com
@@ -83,7 +90,7 @@ Full Stack Engineer
 - OSGi, Ant, Maven, Gradle
 - Splunk, Datadog, AppDynamics
 - BitBucket, Subversion, Git / GitHub
-- Micro-Services
+- microservice
 
 ### Others
 - C / C++, C#, Go/Golang, Python, PHP
