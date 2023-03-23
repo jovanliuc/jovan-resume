@@ -93,7 +93,8 @@ Full Stack Engineer
 ## Banking 2.0 / Mobile X
 ### Overview
 The Banking 2.0 or Mobile X, which is the latest version of the HSBC *Personal Inline Banking* (PIB),
-in order to provide much more services to consumers, so upgrade the services of system gradually.
+in order to provide much more services with better user experience for consumers, 
+it's required to upgrade the services of system gradually.
 We're focusing on the Payment / Transfer, Foreign Exchange Rate, Reference Data, Purpose of Payment, 
 and the Search & Validation of Bank Data, and much more services.
 
