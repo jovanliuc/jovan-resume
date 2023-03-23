@@ -150,8 +150,8 @@ Mi Platform / X Platform (UI Framework),
 Oracle, Web Service, Socket Programming, 
 Hudson / Jenkins, Maven, Dimension, WebLogic, Linux Shell
 
-# Digital World (2015 / 07 - 2017 / 03, Samsung)
-## Overview
+## Digital World (2015 / 07 - 2017 / 03, Samsung)
+### Overview
 The Digital World, which is an internal management system of Samsung,
 and mainly serving all kind of daily activities of in-scope staff of corporation,
 there are three main services, the Work, Life and Play, 
@@ -168,9 +168,9 @@ JSP / Servlet, Spring, Spring MVC, JPA / Hibernate / AnyFrame (ORM Framework) / 
 ExtJS, OSGi, Maven, Oracle, JUES (Web Server)
 
 # Much more projects
-## The Performance Monitoring & Info. Collector of Huawei (2015)
-## The Project Mgt. of Huawei (2015)
-## Yun Logistics & Mgt. (2014)
-## V-mall & V-mall Mgt. (2014)
-## Smile-Hand / MyB&C / Mgt. (2013)
-## The Online Education (2013)
+- The Performance Monitoring & Info. Collector of Huawei (2015)
+- The Project Mgt. of Huawei (2015)
+- Yun Logistics & Mgt. (2014)
+- V-mall & V-mall Mgt. (2014)
+- Smile-Hand / MyB&C / Mgt. (2013)
+- The Online Education (2013)
