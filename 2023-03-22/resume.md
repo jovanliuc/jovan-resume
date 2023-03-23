@@ -15,9 +15,17 @@ jovanliuc0104@gmail.com
 [GitHub Link](https://github.com/jovanliuc)
 
 # Education
-2022 - 2025 <br> **Northwestern Polytechnical University** <br> Master of Engineer Management
+2022 - 2025
+<br>
+**Northwestern Polytechnical University**
+<br>
+Master of Engineer Management
 
-2009 - 2013 <br> **Shaanxi University of Science & Technology** <br> Bachelor of Electronic Information Science & Technology
+2009 - 2013
+<br>
+**Shaanxi University of Science & Technology**
+<br>
+Bachelor of Electronic Information Science & Technology
 
 # Experience
 2018 / 07 - Now
@@ -99,10 +107,11 @@ Full Stack Engineer
 # Projects
 ## Banking 2.0 / Mobile X
 ### Overview
-The Banking 2.0 or Mobile X, which is the latest version of the HSBC *Personal Inline Banking* (PIB),
-in order to provide much more services with better user experience for consumers, 
+The Banking 2.0 or Mobile X,
+which is the latest version of the HSBC *Personal Inline Banking* (PIB),
+in order to provide much more services with better user experience for consumers,
 it's required to upgrade the services of system gradually.
-We're focusing on the Payment / Transfer, Foreign Exchange Rate, Reference Data, 
+We're focusing on the Payment / Transfer, Foreign Exchange Rate, Reference Data,
 Purpose of Payment, Search & Validation of Bank Data, and much more services.
 
 ### Responsibilities
@@ -114,5 +123,30 @@ Purpose of Payment, Search & Validation of Bank Data, and much more services.
 * The monitoring and auditing of services
 
 ### Technicals
-Spring Boot, Spring Integration, Spring Batch, JPA/Hibernate, IBM MQ, Jmeter, Jenkins,
-JWT / SAML, Mulesoft / Kong, Splunk, AppDynamics, PCF, Docker, K8S, AWS, Helm, Istio, Terraform...
+Spring Boot, Spring Integration, Spring Batch, JPA/Hibernate, IBM MQ, Jmeter, Jenkins, Maven
+JWT / SAML, Mulesoft / Kong, Splunk, AppDynamics,
+PCF, Docker, K8S, AWS, Helm, Istio, Terraform...
+
+## BOSS 2.0
+### Overview
+The BOSS(Business & Operation Support System)
+which is a king of business operation support systems,
+and including variable complex businesses.
+
+Generally, it is containing four key submodules, 
+The Billing, Accounting, Customer Service, and Marketing services.
+
+There are also have large numbers of external partners to interactive with,
+e.g. the MDG (Customer Management), HCN (Credit Card Review), 
+KAIT (Credit Rating Agency), CTOSS (Special Commodity Opening).
+
+### Responsibilities
+* The maintaining & coding of services
+* The bug fix & new features development of services
+* The continuous integration / continuous delivery (CI / CD) of services
+* The monitoring and auditing of services
+
+### Technicals
+Spring, Spring MVC, Spring Batch, iBatis / MyBatis,
+Mi Platform / X Platform (UI Framework within Corporation),
+Oracle, Web Service, Socket Programming, Maven, Dimension, WebLogic, Linux Shell
