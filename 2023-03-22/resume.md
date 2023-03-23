@@ -6,13 +6,13 @@
 > especially, the designing, CI / CD, governance, and security of services or microservices,
 > and the enforcement and security of cloud native as well.
 
-+86-15029906261
+> - **+86-15029906261**
 
-327527689@qq.com
+> - **327527689@qq.com**
 
-jovanliuc0104@gmail.com
+> - **jovanliuc0104@gmail.com**
 
-[GitHub Link](https://github.com/jovanliuc)
+> - **[GitHub Link](https://github.com/jovanliuc)**
 
 # Education
 2022 - 2025
