@@ -168,8 +168,8 @@ JSP / Servlet, Spring, Spring MVC, JPA / Hibernate / AnyFrame (ORM Framework) / 
 ExtJS, OSGi, Maven, Oracle, JUES (Web Server)
 
 # Much more projects
-- The Performance Monitoring & Info. Collector of Huawei (2015)
-- The Project Mgt. of Huawei (2015)
+- The Performance Monitoring & Info. Collector Tools (2015)
+- The Project Mgt. Tools (2015)
 - Yun Logistics & Mgt. (2014)
 - V-mall & V-mall Mgt. (2014)
 - Smile-Hand / MyB&C / Mgt. (2013)
