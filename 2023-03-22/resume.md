@@ -71,7 +71,7 @@ Full Stack Engineer
 - Spring, Spring Boot, Spring Cloud, Spring Could Gateway, Spring Integration, Spring Batch
 - JPA, Hibernate, iBatis / Mybatis
 - Lucene, Kibana, Elasticsearch
-- Junit, TestNG, Spring Test, Selenium
+- JUnit, TestNG, Spring Test, Selenium
 - IBM MQ, RabbitMQ
 - SOAP, WebService
 - RPC / gRPC
@@ -98,7 +98,7 @@ Full Stack Engineer
 - OSGi, Ant, Maven, Gradle
 - Splunk, Datadog, AppDynamics
 - BitBucket, Subversion, Git / GitHub
-- microservice
+- Microservices
 
 ### Others
 - C / C++, C#, Go/Golang, Python, PHP
