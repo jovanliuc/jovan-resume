@@ -1,10 +1,10 @@
 # Jovan Liu
 
-> I'm a passionate software developer with almost **10** years related experience,
-> and familiar with backend, frontend, microservice, cloud native, agile, DevSecOps, 
-> and much more relative technical stacks,
+> I'm a passionate software developer with almost **10** years of related experience,
+> and familiar with frontend, backend, microservice, cloud-native, agile, DevSecOps,
+> and many more relative technical stacks,
 > especially, the designing, CI / CD, governance, and security of services or microservices,
-> and the enforcement and security of cloud native as well.
+> and the enforcement and protection of cloud-native as well.
 ---
 > **+86-15029906261**
 
@@ -17,13 +17,13 @@
 # Education
 2022 - 2025
 <br>
-**Northwestern Polytechnical University**
+***Northwestern Polytechnical University***
 <br>
 Master of Engineer Management
 
 2009 - 2013
 <br>
-**Shaanxi University of Science & Technology**
+***Shaanxi University of Science & Technology***
 <br>
 Bachelor of Electronic Information Science & Technology
 
