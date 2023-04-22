@@ -19,7 +19,7 @@
 <br>
 ***Northwestern Polytechnical University***
 <br>
-Master of Engineer Management
+Master of Engineering Management
 
 2009 - 2013
 <br>
