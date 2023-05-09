@@ -66,9 +66,9 @@ Full Stack Engineer
 
 # Skills
 ### Backend
-- Servlet / JSP, FreeMark, Velocity
+- Servlet / JSP, Freemarker, Velocity
 - Struts1 / Struts2, EJB
-- Spring, Spring Boot, Spring Cloud, Spring Could Gateway, Spring Integration, Spring Batch
+- Spring, Spring MVC, Spring Boot, Spring Integration, Spring Batch
 - JPA, Hibernate, iBatis / Mybatis
 - Lucene, Kibana, Elasticsearch
 - JUnit, TestNG, Spring Test, Selenium
@@ -93,10 +93,10 @@ Full Stack Engineer
 - Hudson, Jenkins
 - Mulesoft(Anypoint), Kong
 - Swagger, OAS3
-- OAuth2.0, SAML, JWT, OIDC
-- CheckMarx, SonarQube, PMD
+- OAuth2.0, SAML, JWT
+- CheckMarx, SonarQube, Sonatype Nexus IQ Serve
 - OSGi, Ant, Maven, Gradle
-- Splunk, Datadog, AppDynamics
+- Splunk, AppDynamics
 - BitBucket, Subversion, Git / GitHub
 - Microservices
 
