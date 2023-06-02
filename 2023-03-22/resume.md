@@ -73,36 +73,36 @@ Full Stack Engineer
 - Lucene, Kibana, Elasticsearch
 - JUnit, TestNG, Spring Test, Selenium
 - IBM MQ, RabbitMQ
-- SOAP, WebService
-- RPC / gRPC
+- SOAP, WebService, RPC / gRPC
 - Apache, Tomcat, Jetty, WebLogic, Nginx
 - Oracle, SQL Server, DB2, MySQL / MariaDB, Postgresql
+- OSGi, Ant, Maven, Gradle
 - Redis
 
 ### Frontend
-- HTML / HTML5, CSS / CSS3, Less / Sass, Bootstrap
-- ECMAScript / JavaScript, TypeScript
-- jQuery, Dojo, ExtJS, AngularJS, React
+- HTML / HTML5
+- CSS / CSS3, Sass / Less, Bootstrap
+- ECMAScript, JavaScript, TypeScript
+- jQuery, NodeJS, React, Vue, Angular
 - NPM, Yarn
 - Webpack, Grunt, Gulp
 
-### DevSecOps
+### MISC
 - Docker, Kubernetes(K8S), Istio, Helm, Terraform, Ansible
 - AWS(EC2, EKS, ECS, Lambda, RDS, Route53, CloudWatch, IAM, VPC, S3…)
 - PCF, SHP(AWS EKS / IKP - Internal K8S Platform)
-- Hudson, Jenkins
+- Hudson / Jenkins
 - Mulesoft(Anypoint), Kong
-- Swagger, OAS3
+- RAML, Swagger / OAS3
 - OAuth2.0, SAML, JWT
 - CheckMarx, SonarQube, Sonatype Nexus IQ Serve
-- OSGi, Ant, Maven, Gradle
 - Splunk, AppDynamics
 - BitBucket, Subversion, Git / GitHub
-- Microservices
-
-### Others
-- C / C++, C#, Go/Golang, Python, PHP
+- Agile, Scrum / Kanban / XP(Extreme Programing)
+- DevOps, DevSecOps
+- C / C++, C#, Go / Golang, Python, Groovy
 - Linux
+
 
 # Projects
 ## Banking 2.0 / Mobile X (2017 / 04 - Now, HSBC)
