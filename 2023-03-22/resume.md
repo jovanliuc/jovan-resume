@@ -1,8 +1,8 @@
 # Jovan Liu
 
-> I'm a passionate software developer with almost **10** years of related experience,
+> I'm a passionate software developer with more than **10** years of related experience,
 > and familiar with frontend, backend, microservice, cloud-native, agile, DevSecOps,
-> and many more relative technical stacks,
+> and many other relative technical stacks,
 > especially, the designing, CI / CD, governance, and security of services or microservices,
 > and the enforcement and protection of cloud-native as well.
 ---
@@ -70,7 +70,7 @@ Full Stack Engineer
 - Struts1 / Struts2, EJB
 - Spring, Spring MVC, Spring Boot, Spring Integration, Spring Batch
 - JPA, Hibernate, iBatis / Mybatis
-- Lucene, Kibana, Elasticsearch
+- Lucene, Elasticsearch
 - JUnit, TestNG, Spring Test, Selenium
 - IBM MQ, RabbitMQ
 - SOAP, WebService, RPC / gRPC
