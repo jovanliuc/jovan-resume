@@ -107,7 +107,7 @@ Full Stack Engineer
 - BitBucket, Subversion, Git / GitHub
 - Agile, Scrum / Kanban / XP(Extreme Programing)
 - DevOps, DevSecOps
-- C / C++, C#, Go / Golang, Python, Groovy
+- C / C++, C#, Go / Golang, Python, Groovy, Scala
 - Linux
 
 
