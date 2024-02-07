@@ -1,10 +1,17 @@
 # Jovan Liu
 
-> I'm a passionate software developer with more than **10** years of related experience,
-> and familiar with frontend, backend, microservice, cloud-native, agile, DevSecOps,
-> and many other relative technical stacks,
-> especially, the designing, CI / CD, governance, and security of services or microservices,
-> and the enforcement and protection of cloud-native as well.
+> Passionate software developer with 10+ years of experience 
+> in system architecture design and solution design. 
+> Proficient in frontend, backend, microservices, 
+> and cloud-native development, as well as agile methodologies
+> and DevSecOps practices. Expertise in designing 
+> and implementing CI/CD pipelines, governance, 
+> and security measures for services and microservices. 
+> Skilled in optimizing and securing cloud-native environments. 
+> Strong problem-solving abilities and attention to detail.
+> Effective communicator and collaborative team player. 
+> Committed to delivering innovative and scalable solutions 
+> that align with business objectives.
 ---
 > **+86-15029906261**
 
