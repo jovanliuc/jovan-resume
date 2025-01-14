@@ -83,8 +83,8 @@ Full Stack Engineer
 - SOAP, WebService, RPC / gRPC
 - Apache, Tomcat, Jetty, WebLogic, Nginx
 - Oracle, SQL Server, DB2, MySQL / MariaDB, Postgresql
+- MongoDB, Redis
 - OSGi, Ant, Maven, Gradle
-- Redis
 
 ### Frontend
 - HTML / HTML5
@@ -103,12 +103,12 @@ Full Stack Engineer
 - RAML, Swagger / OAS3
 - OAuth2.0, SAML, JWT
 - CheckMarx, SonarQube, Sonatype Nexus IQ Serve
-- Splunk, AppDynamics
+- Splunk, Datadog, ELK, AppDynamics
 - BitBucket, Subversion, Git / GitHub
 - Agile, Scrum / Kanban / XP(Extreme Programing)
 - DevOps, DevSecOps
 - C / C++, C#, Go / Golang, Python, Groovy, Scala
-- Linux
+- Unix / Linux
 
 
 # Projects
