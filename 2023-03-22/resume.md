@@ -39,7 +39,7 @@ Bachelor of Electronic Information Science & Technology
 <br>
 HSBC Software Development (GD) Limited XiAn Branch
 <br>
-Full Stack Engineer
+Team Leader / Full Stack Engineer
 
 2017 / 04 - 2018 / 06
 <br>
