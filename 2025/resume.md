@@ -1,6 +1,6 @@
 # Jovan Liu
 
-> Passionate software developer with *13* years of experience 
+> Passionate software developer with **13** years of experience 
 > in system architecture design and solution design. 
 > Proficient in frontend, backend, microservices, 
 > and cloud-native development, as well as agile methodologies
