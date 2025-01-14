@@ -108,6 +108,7 @@ Full Stack Engineer
 - Agile, Scrum / Kanban / XP(Extreme Programing)
 - DevOps, DevSecOps
 - C / C++, C#, Go / Golang, Python, Groovy, Scala
+- Kotlin / Android , Swift / Objective-C(Apple)
 - Unix / Linux
 
 
