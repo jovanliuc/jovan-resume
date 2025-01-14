@@ -174,7 +174,7 @@ and each module has lots of sub-services.
 JSP / Servlet, Spring, Spring MVC, JPA / Hibernate / AnyFrame (ORM Framework) / iBatis,
 ExtJS, OSGi, Maven, Oracle, JUES (Web Server)
 
-# Many more projects
+# More projects
 - The Performance Monitoring & Info. Collector Tools (2015)
 - The Project Mgt. Tools (2015)
 - Yun Logistics & Mgt. (2014)
