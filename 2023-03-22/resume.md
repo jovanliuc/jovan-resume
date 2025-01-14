@@ -75,7 +75,7 @@ Full Stack Engineer
 ### Backend
 - Servlet / JSP, Freemarker, Velocity
 - Struts1 / Struts2, EJB
-- Spring, Spring MVC, Spring Boot, Spring Integration, Spring Batch
+- Spring, Spring MVC, Spring Boot, Spring Could, Spring Integration, Spring Batch
 - JPA, Hibernate, iBatis / Mybatis
 - Lucene, Elasticsearch
 - JUnit, TestNG, Spring Test, Selenium
