@@ -81,7 +81,7 @@ Full Stack Engineer
 - JUnit, TestNG, Spring Test, Selenium
 - IBM MQ, RabbitMQ
 - SOAP, WebService, RPC / gRPC
-- Apache, Tomcat, Jetty, WebLogic, Nginx
+- Apache, Tomcat, Jetty, WebLogic, WebSphere(WAS / Liberty), Nginx
 - Oracle, SQL Server, DB2, MySQL / MariaDB, Postgresql
 - MongoDB, Redis
 - OSGi, Ant, Maven, Gradle
