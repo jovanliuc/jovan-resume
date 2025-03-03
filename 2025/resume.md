@@ -1,7 +1,7 @@
 # Jovan Liu
 
-> Passionate software engineer with more than **10** years of experience 
-> in system architecture design and solution design. 
+> Passionate software engineer with **10 +** years of experience 
+> in system architecture design, solution design, project & resources management. 
 > Proficient in frontend, backend, microservices, 
 > and cloud-native development, 
 > as well as agile methodologies and DevSecOps practices.
@@ -12,6 +12,13 @@
 > Effective communicator and collaborative team player. 
 > Committed to delivering innovative and scalable solutions 
 > that align with business objectives.
+> Experienced in end-to-end project lifecycle management, 
+> including requirement analysis, resource allocation, 
+> and risk mitigation strategies.
+> Proven ability to lead cross-functional teams of 10-15 members 
+> through Agile/Scrum methodologies.
+> Skilled in stakeholder coordination across technical and business units, 
+> maintaining 95%+ project delivery success rate
 ---
 > **+86-15029906261**
 
