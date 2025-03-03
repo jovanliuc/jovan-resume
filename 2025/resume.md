@@ -80,18 +80,20 @@ Full Stack Engineer
 
 # Skills
 ### Backend
+- Java (J2SE & J2EE)
 - Servlet / JSP, Freemarker, Velocity
 - Struts1 / Struts2, EJB
 - Spring, Spring MVC, Spring Boot, Spring Could, Spring Integration, Spring Batch
 - JPA, Hibernate, iBatis / Mybatis
 - Lucene, Elasticsearch
-- JUnit, TestNG, Spring Test, Selenium
-- IBM MQ, RabbitMQ
+- JUnit, TestNG, Spring Test, Selenium, Cucumber
+- IBM MQ, RabbitMQ, ActiveMQ
 - SOAP, WebService, RPC / gRPC
 - Apache, Tomcat, Jetty, WebLogic, WebSphere(WAS / Liberty), Nginx
 - Oracle, SQL Server, DB2, MySQL / MariaDB, Postgresql
 - MongoDB, Redis
-- OSGi, Ant, Maven, Gradle
+- Ant, Maven, Gradle
+- OSGi, Equinox
 
 ### Frontend
 - HTML / HTML5
@@ -106,13 +108,14 @@ Full Stack Engineer
 - AWS(EC2, EKS, ECS, Lambda, RDS, Route53, CloudWatch, IAM, VPC, S3…)
 - PCF, SHP(AWS EKS / IKP - Internal K8S Platform)
 - Hudson / Jenkins
-- Mulesoft(Anypoint), Kong
+- Mulesoft(Anypoint), Kong Gateway
 - RAML, Swagger / OAS3
 - OAuth2.0, SAML, JWT
 - CheckMarx, SonarQube, Sonatype Nexus IQ Serve
 - Splunk, Datadog, ELK, AppDynamics
 - BitBucket, Subversion, Git / GitHub
 - Agile, Scrum / Kanban / XP(Extreme Programing)
+- TDD, DDD
 - DevOps, DevSecOps
 - C / C++, C#, Go / Golang, Python, Groovy, Scala
 - Kotlin / Android , Swift / Objective-C(Apple)
