@@ -22,6 +22,8 @@
 ---
 > **+86-15029906261**
 
+> **jovan.j.liu@hsbc.com.cn**
+
 > **327527689@qq.com**
 
 > **jovanliuc0104@gmail.com**
