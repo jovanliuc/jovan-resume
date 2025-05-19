@@ -125,7 +125,7 @@ A desktop securities trading platform for HSBC Canadian clients, enabling transa
   - Persisted stateful data across Java beans (injected into business processors)
   - Enabled core trading actions: placing orders, modifying orders, and tracking order status
 
-## Cash Management System, Bank of Gansu (2014 / 08 - 2015 / 05)
+## Cash Management System, Bank of Gansu (2014 / 08 - 2015 / 05, Beijing Advanced Digital Technology Co., Ltd)
 ### Overview
 This project focused on cash allocation operations for Bank of Gansu, 
 encompassing three core modules.
