@@ -142,3 +142,8 @@ The system implemented three-tier permission controls:
 - Hong Kong DCD browser and mobile project (2017)
 - Hong Kong ELI project (2016)
 - Hong Kong Stock Connect project (2016)
+
+# Certifications
+- SCW orange belt certified | 2019
+- AWS associate developer certified | 2018
+- Mulesoft developer certified | 2017
